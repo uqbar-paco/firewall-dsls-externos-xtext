@@ -1,0 +1,6 @@
+lan-ventas: Si el puerto es 5000 hay que bloquear!
+lan-compras: Si la ip es 2.2.2.2 hay que bloquear!
+lan-ventas: Si la ip es 7.6.6.6 hay que aceptar!
+Si la ip es 192.168.1.130 hay que aceptar! 
+Si el puerto es 8080 hay que bloquear!
+Si la ip es 192.168.1.22 hay que forwardear a 22.22.22.22:40!
